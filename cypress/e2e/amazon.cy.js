@@ -89,27 +89,11 @@
 //     })
 //         })
       
-    // })
+//     })
 
 
-      // cy.get('.btn.btn-success').click()
+  console.log(obj.name); // update
 
-      // cy.get('[id="country"]').type('Ind')
-      // cy.wait(10000)
-      // cy.get('.suggestions ul li a').each(($country)=>{
-      //   if($country.text().includes('India')){
-      //     cy.wrap($country).click({force:true})
-
-      //     cy.get('.checkbox.checkbox-primary input').click({force:true})
-      //     cy.get('.btn.btn-success.btn-lg').click()
-      //     cy.wait(10000)
-      //     cy.get('.alret.alret-success.alret-dismissible').should('exist','Success! Thank you! Your order will be delivered in next few weeks :-)')
-        
-  //     }
-  //   })
-
-  //   })
-  //  })  
 
 
 
